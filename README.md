@@ -13,6 +13,10 @@
 ![Демо аватаров](https://via.placeholder.com/800x400/667eea/ffffff?text=Генератор+случайных+аватаров)
 
 </div>
+## Скриншоты
+<img width="1884" height="1074" alt="image" src="https://github.com/user-attachments/assets/1990ef80-a2b7-4b2d-a246-cb1fc6e83bd8" />
+<img width="1858" height="1083" alt="image" src="https://github.com/user-attachments/assets/5ffab98f-ebd3-4510-a0f1-2c9a3f3c4a5c" />
+<img width="1881" height="1089" alt="image" src="https://github.com/user-attachments/assets/62167de9-9a4e-4a4d-9527-431133752629" />
 
 ## ✨ Возможности
 
